@@ -2,12 +2,11 @@
 title: Obsidian_git备份手册
 description: 
 published: 1
-date: 2023-09-23T14:27:19.274Z
+date: 2023-09-23T14:32:11.572Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-23T14:27:12.209Z
 ---
-
 
 已剪辑自: [https://zhuanlan.zhihu.com/p/595478125](https://zhuanlan.zhihu.com/p/595478125)
 

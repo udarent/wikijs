@@ -2,12 +2,11 @@
 title: wikijs-一款wiki系统
 description: 
 published: 1
-date: 2023-09-23T14:27:31.849Z
+date: 2023-09-23T14:32:20.251Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-23T14:22:42.522Z
 ---
-
 
 已剪辑自: [https://zhuanlan.zhihu.com/p/598211449](https://zhuanlan.zhihu.com/p/598211449)
 
