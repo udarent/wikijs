@@ -2,7 +2,7 @@
 title: wikijs同步注意事项
 description: 
 published: 1
-date: 2023-09-23T14:37:25.649Z
+date: 2023-09-23T14:42:33.688Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-23T14:27:32.558Z
